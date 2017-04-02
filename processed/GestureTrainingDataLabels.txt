@@ -1,0 +1,11 @@
+<<<<<<< HEAD
+1 Everyone
+2 Hello
+3 HowAre
+4 Thanks
+5 You
+=======
+1 MyNameIs
+2 hello
+3 kaushal
+>>>>>>> d5e346efdabc284543f6ad17304121591a72c84d
